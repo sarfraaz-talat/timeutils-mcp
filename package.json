@@ -1,0 +1,15 @@
+{
+  "name": "timeutils-mcp",
+  "version": "0.0.3",
+  "description": "Minimal MCP server providing time utilities",
+  "main": "index.js",
+  "bin": {
+    "timeutils-mcp": "index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.2.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
